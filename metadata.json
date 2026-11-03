@@ -1,0 +1,6 @@
+{
+  "name": "TokVibe - Short Video App",
+  "description": "A feature-packed TikTok-style short video platform with For You feed, camera studio, comments, trending sounds, creator profiles, and social sharing.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
